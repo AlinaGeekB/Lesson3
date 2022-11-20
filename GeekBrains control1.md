@@ -21,3 +21,6 @@
 
 
 
+
+git branch -d "name branch to delete" - delete delete delete
+
