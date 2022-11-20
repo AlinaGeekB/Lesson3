@@ -25,3 +25,6 @@
 * git branch -d "name branch to delete" - удаление ветки, указываем имя ветки, которую необходимо удалить 
 
 
+
+git branch -d "name branch to delete" - delete delete delete
+
